@@ -199,12 +199,15 @@ RegisterNumber:  23012930
 
 ## D flip flop:
 
-![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/59fe2397-0e8a-48f0-9219-7a0b73520baa)
+![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/68357fb5-2bb3-47ee-b916-65bce98d23b6)
+
+
 
 
 ## JK flip flop:
 
-![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/bf094793-0054-4126-9348-f205b8168b18)
+![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/34f6c30c-ef93-4457-9120-9c3aa5210403)
+
 
 
 ## T flip flop:
