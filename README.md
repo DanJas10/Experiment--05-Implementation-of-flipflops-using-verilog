@@ -113,7 +113,11 @@ Developed by: Dan Jas J
 RegisterNumber:  23012930
 */
 
+
 # CODE:
+
+
+
 
 ## SR flip flop:
  
@@ -138,7 +142,11 @@ RegisterNumber:  23012930
 
 
 
+
 # RTL diagram:
+
+
+
 
 ## SR flip flop:
 
@@ -164,7 +172,11 @@ RegisterNumber:  23012930
 
 
 
+
 # TRUTH TABLE:
+
+
+
 
 ## SR flip flop:
 
@@ -190,7 +202,11 @@ RegisterNumber:  23012930
 
 
 
+
 # TIMING DIGRAMS FOR FLIP FLOPS :
+
+
+
 
 ## SR flip flop:
 
@@ -221,5 +237,11 @@ RegisterNumber:  23012930
 
 
 # RESULTS :
+
+Thus, all the flip flops are designed and the truth tables are verified using quartus software.
+
+
+
+
 
 
