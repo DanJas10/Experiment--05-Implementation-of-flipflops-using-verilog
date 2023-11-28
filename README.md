@@ -109,16 +109,107 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Dan Jas J
+RegisterNumber:  23012930
 */
 
+# CODE:
+
+## SR flip flop:
+ 
+![code](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/9c45f96a-b49b-49e5-9459-2deb67f36107)
+
+## D flip flop:
+
+![code](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/b32f84b2-a605-40f4-9e0e-f3fb50175371)
+
+
+## JK flip flop:
+
+![code](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/f82511fe-7b46-406c-8083-3a2c6385863a)
+
+
+## T flip flop:
+
+![code](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/2d84eea9-41d4-4790-b0dd-47b3a4a2caf7)
 
 
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
+
+# RTL diagram:
+
+## SR flip flop:
+
+![RTL](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/83c308f5-86a2-487a-98f5-10a46f9d6d6e)
+
+
+## D flip flop:
+
+![RTL](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/e07b57b2-10f3-4b2a-8c32-746f30c77617)
+
+
+## JK flip flop:
+
+![RTL](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/851648ac-2f2f-46f3-b235-d2650649d1c7)
+
+
+## T flip flop:
+
+![RTL](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/4e701294-d1b4-4aad-9149-e3b5a4068bd9)
+
+
+
+
+
+
+# TRUTH TABLE:
+
+## SR flip flop:
+
+![truth table](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/930952ae-65a8-4676-9e1b-635f6e5058df)
+
+
+## D flip flop:
+
+![truth table](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/c7ec2339-9b06-4840-af7f-250fb99af00c)
+
+
+## JK flip flop:
+
+![truth table](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/dc0f1474-bc95-4d28-93a5-3cf1dd158b78)
+
+
+## T flip flop:
+
+![truth table](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/bd5d861c-edf0-4a89-8429-d7df460bfa4f)
+
+
+
+
+
+
+# TIMING DIGRAMS FOR FLIP FLOPS :
+
+## SR flip flop:
+
+![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/26de27b4-ac84-4ba6-a478-aa0764a4d2e5)
+
+
+## D flip flop:
+
+![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/59fe2397-0e8a-48f0-9219-7a0b73520baa)
+
+
+## JK flip flop:
+
+![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/bf094793-0054-4126-9348-f205b8168b18)
+
+
+## T flip flop:
+
+![timing diagram](https://github.com/DanJas10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931233/9ef92f16-6e6e-4f19-b8b7-fe74dcd59f6b)
 
 
 
@@ -126,15 +217,6 @@ RegisterNumber:
 
 
 
+# RESULTS :
 
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
-
-
-
-### RESULTS 
